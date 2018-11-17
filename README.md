@@ -1,1 +1,83 @@
 # fatima3
+<!DOCtype html>
+<html>
+<head>
+ <title>cv</title>
+</head>
+
+  <body>
+<br>
+<h1 style="color:blue;text-align:center;">Curriculum Vitae</h1>
+<br>
+<br>
+ <table border="1">
+<tr>
+<td style="background-color:grey;">Name :</td>
+<td>Fatima Hayder</td>
+</tr>
+<tr>
+<td style="background-color:grey;">Date of Born:</td>
+<td>4/2/1999</td>
+</tr>
+<tr>
+<td style="background-color:grey;">Place of Born:</td>
+<td>Baghdad</td>
+</tr>
+ </table>
+<br>
+<br>
+<br>
+  <table>
+<tr>
+<td style="color:green;">Address:</td>
+<td> Iraq,Baghdad.</td>
+</tr>
+<tr>
+<td style="color:green;" >Nationality:</td>
+<td> Iraqian</td>
+</tr>
+<tr>
+<td style="color:green;">Primary school:</td>
+<td> Ashbilya School</td>
+</tr>
+<td style="color:green;">Secandary school:</td>
+<td> Al-kawther School</td>
+</tr>
+
+   </table>
+<br><br>
+
+     <table>
+  <tr>
+  <td style="color:cyan;">Phone:</td>
+  <td>1234567</td>
+   </tr>
+  <tr>
+  <td style="color:cyan;">E-mail:</td>
+    <td>Iraqian@e-mail.com</td>
+  </tr>
+
+  </table><br><br>
+
+<table>
+<tr>
+<td style="color:brown;">Languages :</td>
+</tr>
+
+<tr>
+<td>Arabic </td>
+</tr>
+
+<tr>
+<td>English</td>
+</tr>
+
+<tr>
+<td>France</td>
+</tr>
+
+
+</table>
+
+  </body>
+</html>
